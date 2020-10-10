@@ -37,13 +37,17 @@ body {
       background-color:#767676;
   }
   
-#graphic_1{
+  #panoramic{
       position: absolute; top: 100px; left: 100px; 
-}
+  }
 
-#image_1{
-    position: absolute; top: 100px; left: 50px; 
-}
+  #stereo{
+      position: absolute; top: 100px; left: 100px; 
+  }  
+
+  #mask{
+      position: absolute; top: 100px; left: 100px; 
+  }
 
 .header img {
     width: 100px;
@@ -77,3 +81,4 @@ body {
     padding: 14px 16px;
     text-decoration: none;
   }
+
