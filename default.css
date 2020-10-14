@@ -16,7 +16,7 @@ body {
   }
   
   .navbar-custom {
-      background-color: #F3EEDB;
+      background-color: black;
       left: 0px;
   }
   /* change the brand and text color */
@@ -104,11 +104,12 @@ body {
     position: absolute;
     top: 130px;
     left: 1px;
-    height: 1400px;
+    height: 2500px;
     width: 2000px;
     text-align: left;
     color: white;
     background-image: url('texture.jpg');
+    margin: 0px;
   }
 
   .mediacontainer {
