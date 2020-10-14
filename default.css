@@ -2,13 +2,22 @@ body {
     color: #13294B;
     background-color: #cadee9;
     font-family:'Times New Roman', Times, serif;
-    margin: 0px;
+    margin:0px;
+    margin-bottom: 0px;
+    padding:0px;
 }
 
 .jumbo-text-center {
     text-align: center;
     color: white;
     bottom: 130px;
+}
+
+.font {
+  font-size: 20px;
+  text-align: center;
+  margin: 0;
+  padding: 0;
 }
 
 .jumbotron {
@@ -105,20 +114,28 @@ body {
     position: absolute;
     top: 130px;
     left: 0px;
-    height: 2500px;
-    width: 2000px;
+    height: 1905px;
+    width: 1905px;
     text-align: left;
     color: white;
     background-image: url('texture.jpg');
-    margin: 0px;
+    margin:0px;
+    margin-bottom: 0px;
+    padding:0px;
   }
 
   .mediacontainer {
     position: relative;
     text-align: left;
     color: white;
-    top: -1072px;
+    top: -1073px;
     left: 1205px;
+    margin-right: 0px;
+    margin:0px;
+    margin-bottom: 0px;
+    padding:0px;
+    width: 700;
+    height: 650;
   }
 
 /* Bottom left text */
