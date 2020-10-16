@@ -111,7 +111,7 @@ body {
 
   .container1 {
     position: absolute;
-    top: 130px;
+    top: 143.5px;
     left: 0px;
     height: 1905px;
     width: 1905px;
@@ -124,7 +124,7 @@ body {
   }
 
   .container2 {
-    width: 1905px;
+    width: 1800px;
     text-align: left;
     color: white;
     margin:0px;
