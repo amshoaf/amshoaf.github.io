@@ -14,9 +14,8 @@ body {
 }
 
 .font {
-  font-size: 20px;
-  text-align: center;
-  margin: 0;
+  font-size: 23px;
+  margin-left: 9em;
   padding: 0;
 }
 
@@ -124,12 +123,22 @@ body {
     padding:0px;
   }
 
+  .container2 {
+    width: 1905px;
+    text-align: left;
+    color: white;
+    margin:0px;
+    margin-bottom: 0px;
+    margin-left: 63px;
+    padding:0px;
+  }
+
   .mediacontainer {
     position: relative;
     text-align: left;
     color: white;
     top: -1568px;
-    left: 1205px;
+    left: 1100px;
     margin-right: 0px;
     margin:0px;
     margin-bottom: 0px;
